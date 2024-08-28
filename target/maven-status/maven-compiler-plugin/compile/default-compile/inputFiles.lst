@@ -1,0 +1,13 @@
+H:\Workspace\Spring_Practice\ecommerce\src\main\java\com\example\demo\repository\OrderRepository.java
+H:\Workspace\Spring_Practice\ecommerce\src\main\java\com\example\demo\repository\ItemRepository.java
+H:\Workspace\Spring_Practice\ecommerce\src\main\java\com\example\demo\service\ItemService.java
+H:\Workspace\Spring_Practice\ecommerce\src\main\java\com\example\demo\service\ItemServiceImpl.java
+H:\Workspace\Spring_Practice\ecommerce\src\main\java\com\example\demo\entity\Item.java
+H:\Workspace\Spring_Practice\ecommerce\src\main\java\com\example\demo\repository\CategoryRepository.java
+H:\Workspace\Spring_Practice\ecommerce\src\main\java\com\example\demo\DemoApplication.java
+H:\Workspace\Spring_Practice\ecommerce\src\main\java\com\example\demo\entity\Order.java
+H:\Workspace\Spring_Practice\ecommerce\src\main\java\com\example\demo\entity\Category.java
+H:\Workspace\Spring_Practice\ecommerce\src\main\java\com\example\demo\controller\ItemController.java
+H:\Workspace\Spring_Practice\ecommerce\src\main\java\com\example\demo\service\OrderService.java
+H:\Workspace\Spring_Practice\ecommerce\src\main\java\com\example\demo\service\OrderServiceImpl.java
+H:\Workspace\Spring_Practice\ecommerce\src\main\java\com\example\demo\controller\OrderController.java
